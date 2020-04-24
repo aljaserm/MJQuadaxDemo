@@ -5,7 +5,8 @@ namespace MJQuadaxDemo
 {
     class Program
     {
-        //start time 4/24/2020 4:40 pm
+        //start time Friday 4/24/2020 4:40 pm
+        //End time Friday 4/24/2020 6:00 pm
         public static string playerName;
         static void Main(string[] args)
         {
